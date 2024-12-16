@@ -1,0 +1,8 @@
+body {
+  /* display: grid;               Enables Grid layout */
+  /* place-items: center;         Centers content horizontally and vertically */
+  /* height: 100vh;               Sets the height to 100% of the viewport */
+  /* margin: 0;                   Removes default margins */
+   background-color: black; /*     Optional: Background color */
+   color: white;   /*             Optional: Text color */
+}
